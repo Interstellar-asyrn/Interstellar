@@ -1,5 +1,5 @@
 # Interstellar
-Interstellar is an aimbot and ESP (Extra Sensory Perception) script which aims to enhance your experience in your favourite Roblox games.
+Interstellar is an aimbot and ESP (Extra Sensory Perception) script.
 
 The script is closed-source but you can use it by running the loadstring `loadstring(game:HttpGet("https://raw.githubusercontent.com/Interstellar-asyrn/Interstellar/main/source.lua"))()`
 
