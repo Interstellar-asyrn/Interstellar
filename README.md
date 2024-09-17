@@ -23,5 +23,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Interstellar-asyrn/In
 
 # DISCLAIMER
 > [!IMPORTANT]
-> This script is provided for educational purposes only. It is distributed on an "AS IS" basis, without warranties or conditions of any kind, either express or implied. By using or distributing this script, you agree that the author(s) shall not be held liable for any
-> damages, loss of data, or any other consequences arising from its use. The user assumes all responsibility for any actions taken with the use of this script. Please ensure compliance with any terms of service, rules, or laws applicable to your use case.
+> This software/script is intended for educational purposes only and is distributed as closed source.
+> The source code is not available for public review or modification.
+> By using or distributing this software/script, you agree that the author(s) shall not be held liable for any damages, loss of data, or any other consequences arising from its use.
+> The software/script is provided on an "AS IS" basis, without warranties or conditions of any kind, either express or implied.
+> Users are solely responsible for ensuring compliance with any applicable laws, terms of service, or regulations.
