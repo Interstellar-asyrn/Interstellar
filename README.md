@@ -21,6 +21,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Interstellar-asyrn/In
   - [x] Off Screen Arrow
 - [ ] Aimbot
 
+> [!INFO]
+> I'm kinda broke rn and can't afford to buy a key so development of the script will be resumed when I buy another one.
+
 # DISCLAIMER
 > [!IMPORTANT]
 > This script is intended for educational purposes only and is distributed as closed source.
